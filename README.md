@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Chris!
+
+- 🔭 I’m currently leading a 5-person engineering team working in NodeJS, React, MongoDB, and AWS
+- 🌱 I’m currently (always) learning how to be an ideal manager
+- 🤔 I’m looking for help with engineering team management, building engagement, and being forward-thinking
+- 💬 Ask me about my metal band, and why greyhounds make great pets!
+- 📫 How to reach me: radio "Verböaten" on VHF Channel 68
+- ⚡ Fun fact: I attended Super Bowl 2018
 
 <!--
 **cmjsae/cmjsae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
