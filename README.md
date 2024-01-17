@@ -1,9 +1,10 @@
 ### Hi, I'm Chris!
 
-- 🔭 I’m currently leading a 5-person engineering team working in NodeJS, React, MongoDB, and AWS
+- 🔭 I’m currently leading a 5-person engineering team working in NodeJS, React, Ruby on Rails, and AWS
 - 🌱 I’m currently (always) learning how to be an ideal manager
+- 🌱 I’m always working on expanding my technical skillset
 - 🤔 I’m looking for help with engineering team management, building engagement, and being forward-thinking
-- 💬 Ask me about my metal band, and why greyhounds make great pets!
+- 💬 Ask me about my thrash metal band, and why greyhounds make great pets!
 - 📫 How to reach me: radio "Verböaten" on VHF Channel 68
 - ⚡ Fun fact: I attended Super Bowl 2018
 
